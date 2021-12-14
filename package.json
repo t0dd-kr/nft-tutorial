@@ -1,0 +1,28 @@
+{
+  "name": "nft-tutorial",
+  "version": "1.0.0",
+  "description": "NFT Tutorial project with alchemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t0dd-kr/nft-tutorial.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/t0dd-kr/nft-tutorial/issues"
+  },
+  "homepage": "https://github.com/t0dd-kr/nft-tutorial#readme",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.3",
+    "ethers": "^5.5.2",
+    "hardhat": "^2.7.1"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0-solc-0.7",
+    "dotenv": "^10.0.0"
+  }
+}
