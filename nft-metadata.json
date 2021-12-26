@@ -1,0 +1,12 @@
+{
+  "attributes" : [ {
+    "trait_type" : "Background Color",
+    "value" : "Black"
+  }, {
+    "trait_type" : "Logo Color",
+    "value" : "White"
+  } ],
+  "description" : "My Logo",
+  "image" : "https://gateway.pinata.cloud/ipfs/QmTmGkxpwddn2aetVRNvGxDDZNUVBGnovLctoVd4tWWuPY",
+  "name" : "t0dd"
+}
